@@ -1,0 +1,34 @@
+{
+  "name": "TTT List",
+  "logoURI": "ipfs://QmbcNPCDm6cWbiHD8svovt3nGk5vreTBanSzsrRZLbL7tz",
+  "keywords": [
+    "audited",
+    "verified",
+    "ethereum"
+  ],
+  "tags": {
+    "ttt": {
+      "name": "The Transfer Token",
+      "description": "Token that intended to be utilized as a gateway for currency exchange and overseas remittance."
+    }
+  },
+  "timestamp": "2021-05-09T05:36:41.296Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x9ad03c34aab604a9e0fde41dbf8e383e11c416c4",
+      "symbol": "TTT",
+      "name": "The Transfer Token",
+      "decimals": 18,
+      "logoURI": "ipfs://QmbcNPCDm6cWbiHD8svovt3nGk5vreTBanSzsrRZLbL7tz",
+      "tags": [
+        "ttt"
+      ]
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
